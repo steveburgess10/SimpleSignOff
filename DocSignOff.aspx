@@ -83,7 +83,7 @@
 			
 			createSignOffRecord(DocumentID, ReadFlagCheckedYN);
 			
-			window.location = "https://sp13build.viha.ca/sites/ePaydev/DocSignOff/SitePages/Thankyou.aspx"
+			window.location = "/SitePages/Thankyou.aspx"
 		}
 
 	</script>
